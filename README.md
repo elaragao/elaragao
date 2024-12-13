@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elaragao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/elaragao/github-readme-stats#gh-light-mode-only)
 
 -->
-
+<!--
  <div>
   <a href="https://github.com/elaragao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elaragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline"> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </div>
-##
-![Larissa Stein's stats](https://github-readme-stats.vercel.app/api?username=elaragao\&rank_icon=github\&theme=dracula)
+
+-->
